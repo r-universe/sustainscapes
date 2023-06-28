@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "AICcPermanova"]
 	path = AICcPermanova
 	url = https://github.com/sustainscapes/aiccperm
-	shallow = true
-	registered = true
 [submodule "TroublemakeR"]
 	path = TroublemakeR
 	url = https://github.com/sustainscapes/troublemaker
-	shallow = true
-	registered = true
